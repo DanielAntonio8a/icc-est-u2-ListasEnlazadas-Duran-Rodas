@@ -38,7 +38,7 @@ public class MenuController {
             }
         }
     }
-    /*Adriano Gay borra eso, puro GPT */
+
     public void addContact() {
         String name = consoleView.getInput("Ingresa el nombre: ");
         String phone = consoleView.getInput("Ingrese el numero: ");
