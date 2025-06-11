@@ -1,18 +1,34 @@
-## Getting Started
+# Proyecto de Listas Enlazadas – ICC Est U2
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositorio contiene una implementación en Java de listas enlazadas, desarrollada como parte de la asignatura de Estructuras de Datos del segundo semestre de Ingeniería en Computación.
 
-## Folder Structure
+## Estudiantes
+ Adriano Rodas
+ 
+ Daniel Duran
 
-The workspace contains two folders by default, where:
+## 📘 Descripción
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+El proyecto tiene como objetivo principal la creación y manipulación de listas enlazadas simples, permitiendo operaciones como inserción, eliminación, búsqueda y recorrido de elementos. Estas estructuras son fundamentales para comprender la gestión dinámica de memoria y la eficiencia en la manipulación de datos.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🛠️ Estructura del Proyecto
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- **`src/`**: Contiene los archivos fuente en Java.
+- **`bin/`**: Directorio de salida para los archivos compilados.
+- **`.vscode/`**: Configuraciones específicas para Visual Studio Code.
 
-## Dependency Management
+## 🚀 Requisitos
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Java 11 o superior.
+- Visual Studio Code con la extensión de Java instalada.
+
+## 📥 Instalación
+
+1. Clona este repositorio en tu máquina local:
+
+   ```bash
+   git clone https://github.com/DanielAntonio8a/icc-est-u2-ListasEnlazadas-Duran-Rodas.git
+
+## 🧾 Conclusión
+
+Este proyecto permitió comprender y aplicar conceptos clave de listas enlazadas en Java, como la creación de nodos y la manipulación dinámica de memoria. Se reforzaron habilidades en programación orientada a objetos y se evidenció la utilidad de esta estructura para operaciones eficientes de inserción y eliminación. En general, fue una experiencia formativa para el desarrollo de soluciones estructuradas y escalables.
